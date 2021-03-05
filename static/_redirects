@@ -1,4 +1,2 @@
 /roam-plugins/* https://clever-babbage-b6f6e2.netlify.app/roam-plugins/:splat 200!
-/roam-plugins/pyroam https://clever-babbage-b6f6e2.netlify.app/roam-plugins/pyroam/Installation 200!
-/roam-plugins/roamsr https://clever-babbage-b6f6e2.netlify.app/roam-plugins/roamsr/Installation 200!
-/roam-plugins/littlescripts https://clever-babbage-b6f6e2.netlify.app/roam-plugins/littlescripts/Installation 200!
+/roam-plugins/pyroam/installation/* https://clever-babbage-b6f6e2.netlify.app/roam-plugins/pyroam/:splat 200!
