@@ -1,5 +1,6 @@
 ---
 title: Winter Term 2021 Retrospective (mainly on spaced repetition)
+date: 2020-03-23
 description: A short retrospective on some of my failures with SRS 
 ---
 
