@@ -1,5 +1,6 @@
 ---
 title: Winter Term 2021 Retrospective (mainly on spaced repetition)
+description: A short retrospective on some of my failures with SRS 
 ---
 
 I initially wanted to call this a _post-mortem_, but then I read on Wikipedia that post-mortem is only about the failures and how to prevent them in the future. I thought I don't want that. I want to focus on the good things as well. Hence, retrospective. This is an experiment. Here it goes...
